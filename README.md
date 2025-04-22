@@ -21,27 +21,18 @@ A execução se deve pelo terminal, com as opções disponiveis na tela o usuari
 ## Como Testar
 Siga os passos abaixo:
 
-1. **Pré-requisitos**:
-   - Certifique-se de ter [mencione os requisitos, como "Python instalado", "Node.js", etc.].
-   - Instale as dependências necessárias executando o comando:
-     ```bash
-     [comando para instalar dependências, ex.: pip install -r requirements.txt]
-     ```
+### No terminal
+1. Certifique-se de ter o [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html) instalado em sua máquina.
+2. Clone o repositório para sua máquina local usando `git clone <URL_DO_REPOSITORIO>`.
+3. Navegue até o diretório do projeto: `../carro/bin`.
+4. Execute o código com o comando: `java Carro`.
+5. Siga as instruções exibidas no terminal para interagir com o programa.
 
-2. **Execução**:
-   - Para executar o código, utilize o seguinte comando no terminal:
-     ```bash
-     [comando para rodar o código, ex.: python main.py]
-     ```
+### Se estiver usando o VS Code:
+1. Abra o diretório do projeto no VS Code.
+2. Certifique-se de ter a extensão "Java Extension Pack" instalada.
+3. Compile e execute o programa diretamente pelo botão "Run" no editor ou pelo terminal integrado.
 
-3. **Testes**:
-   - Caso existam testes automatizados, você pode executá-los com:
-     ```bash
-     [comando para rodar os testes, ex.: pytest]
-     ```
-
-4. **Resultados**:
-   - Após a execução, você verá [descreva o que o usuário deve esperar, como "os dados processados no terminal", "uma interface web no navegador", etc.].
 
 ## Contribuição
 Se você deseja contribuir para este projeto, sinta-se à vontade para abrir um pull request ou relatar problemas na seção de [Issues](#).
